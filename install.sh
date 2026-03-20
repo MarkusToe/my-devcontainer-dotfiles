@@ -14,5 +14,5 @@ export NVM_DIR="$HOME/.nvm"
 nvm install 20
 nvm use 20
 
-# Install Gemini CLI globally
-npm install -g @google/gemini-cli
+# Install Gemini CLI and Open Code globally
+npm install -g @google/gemini-cli opencode-ai@latest
